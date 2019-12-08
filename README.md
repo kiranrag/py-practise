@@ -1,1 +1,1 @@
-# py-webmap
+# Python practise codes
